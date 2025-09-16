@@ -19,3 +19,9 @@
     <img alt="X" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" />
   </a>
 </p>
+
+
+## 📊 GitHub Stats:
+![Ashmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=iashmita97&show_icons=true&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=iashmita97&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iashmita97&layout=compact&theme=dark&hide_border=true)  
