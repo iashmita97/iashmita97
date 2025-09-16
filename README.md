@@ -32,6 +32,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iashmita97&theme=midnight-purple)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fiashmita97&theme=midnight-purple)](https://git.io/streak-stats)
+
 
 
 
