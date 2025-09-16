@@ -21,8 +21,14 @@
 </p>
 
 
-## 🔥 GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com?user=iashmita97&theme=radical&hide_border=true)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+![Ashmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=iashmita97&show_icons=true&theme=radical)
+
+## 🛠️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iashmita97&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=iashmita97&theme=radical&margin-w=15&margin-h=15)
 
 
 
