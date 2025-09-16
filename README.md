@@ -30,8 +30,7 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=iashmita97&theme=radical&margin-w=15&margin-h=15)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fiashmita97&theme=midnight-purple)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fiashmita97&theme=midnight-purple" alt="GitHub Streak" /></a>
+
 
 
 
