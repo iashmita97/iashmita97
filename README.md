@@ -20,6 +20,9 @@
   </a>
 </p>
 
+### 📈 My GitHub Activity Graph
+[![Ashmita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 📊 GitHub Stats
 ![Ashmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=iashmita97&show_icons=true&theme=radical)
@@ -29,6 +32,8 @@
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=iashmita97&theme=radical&margin-w=15&margin-h=15)
+
+
 
 
 
