@@ -20,6 +20,8 @@
   </a>
 </p>
 
+[![Ashmita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97&bg_color=0d1117&color=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![Ashmita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97&bg_color=0d1117&color=00ffb3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
