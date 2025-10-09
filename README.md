@@ -24,6 +24,11 @@
 [![Ashmita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+### 🌈 My Daily Contribution Graph
+[![Ashmita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97&theme=react-dark&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 ## 📊 GitHub Stats
 ![Ashmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=iashmita97&show_icons=true&theme=radical)
 
