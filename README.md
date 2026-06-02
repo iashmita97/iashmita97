@@ -123,8 +123,6 @@
 <img src="https://raw.githubusercontent.com/iashmita97/iashmita97/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,40:0284C7,70:06B6D4,100:22D3EE"/>
 </p>
