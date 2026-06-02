@@ -1,14 +1,4 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:0284C7,70:06B6D4,100:22D3EE&text=Ashmita%20Chatterjee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20•%20Frontend%20Developer%20•%20Python%20Learner&descAlignY=58"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Developer;Python+Learner;Software+Development+Enthusiast;DSA+Enthusiast" />
-</p>
-
----
-
-<p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,40:0284C7,70:06B6D4,100:22D3EE&text=Ashmita%20Chatterjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Frontend%20Developer%20|%20Python%20Learner&descAlignY=58"/>
 </p>
 
@@ -153,4 +143,3 @@
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,40:0284C7,70:06B6D4,100:22D3EE"/>
 </p>
-
