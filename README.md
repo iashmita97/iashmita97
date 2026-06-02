@@ -99,16 +99,24 @@
 </a>
 
 <a href="https://x.com/iashmita_12">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=iashmita97&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
-[![Ashmita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97&bg_color=0F172A&color=38BDF8&line=22D3EE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashmita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97\&bg_color=0F172A\&color=38BDF8\&line=22D3EE\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
