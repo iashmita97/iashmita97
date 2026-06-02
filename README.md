@@ -8,23 +8,98 @@
 
 ---
 
-## ✨ About Me
+# 🧿 About Me
 
-```yaml
-Name        : Ashmita Chatterjee
-College     : Asansol Engineering College (AEC)
-Degree      : B.Tech Information Technology
-Semester    : 6th Semester
-Graduation  : 2027
-Role        : MERN Stack Developer
-Learning    : Python
-Interest    : Software Development & DSA
-Location    : West Bengal, India
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN%20Stack-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Frontend%20Developer-0284C7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python%20Learner-38BDF8?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+🎓 <b>B.Tech in Information Technology | 6th Semester</b>
+
+<br><br>
+
+💻 MERN Stack Developer  | 
+🌐 Frontend Developer  | 
+🐍 Python Learner
+
+<br><br>
+
+🏫 Asansol Engineering College (AEC)
+
+<br>
+
+🚀 Interested in Software Development & DSA
+
+<br>
+
+📅 Graduating in 2027
+
+<br>
+
+📍 West Bengal, India
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Tech Stack
+
+<p align="center">
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html"/><br>HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css"/><br>CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js"/><br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react"/><br>React
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs"/><br>Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb"/><br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python"/><br>Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git"/><br>Git
+</td>
+</tr>
+
+</table>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -37,65 +112,43 @@ Location    : West Bengal, India
 </a>
 
 <a href="https://x.com/iashmita_12">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## ⚡ Tech Stack
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iashmita97&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> • <b>React</b> • <b>Node.js</b> • <b>MongoDB</b> • <b>Python</b> • <b>Git</b> • <b>GitHub</b>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iashmita97&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🔥 GitHub Streak
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iashmita97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iashmita97&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=iashmita97&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=iashmita97&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 [![Ashmita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97\&bg_color=0F172A\&color=38BDF8\&line=22D3EE\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/iashmita97/iashmita97/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/iashmita97/iashmita97/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
