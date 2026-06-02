@@ -42,7 +42,7 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <table>
 <tr>
@@ -82,9 +82,8 @@
 </tr>
 </table>
 
-</p>
+</div>
 
----
 
 ## 🌐 Connect With Me
 
