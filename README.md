@@ -8,55 +8,53 @@
 
 ---
 
-# 🧿 About Me
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,40:0284C7,70:06B6D4,100:22D3EE&text=Ashmita%20Chatterjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Frontend%20Developer%20|%20Python%20Learner&descAlignY=58"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Frontend+Developer;Python+Learner;DSA+Enthusiast" />
+</p>
+
+---
+
+## 🧿 About Me
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MERN%20Stack-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-06B6D4?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Frontend%20Developer-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-0284C7?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Python%20Learner-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square"/>
 
 </p>
 
-<br>
-
 <p align="center">
 
-🎓 <b>B.Tech in Information Technology | 6th Semester</b>
+🎓 <b>B.Tech Information Technology | 6th Semester</b>
 
-<br><br>
+<br>
 
-💻 MERN Stack Developer  | 
-🌐 Frontend Developer  | 
-🐍 Python Learner
+💻 DSA Enthusiast | 🌐 Frontend Developer | 🚀 MERN Stack Developer
 
-<br><br>
+<br>
 
 🏫 Asansol Engineering College (AEC)
 
 <br>
 
-🚀 Interested in Software Development & DSA
-
-<br>
-
 📅 Graduating in 2027
-
-<br>
-
-📍 West Bengal, India
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
-<table align="center">
+<table>
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=html"/><br>HTML
@@ -92,14 +90,13 @@
 <img src="https://skillicons.dev/icons?i=git"/><br>Git
 </td>
 </tr>
-
 </table>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -112,26 +109,26 @@
 </a>
 
 <a href="https://x.com/iashmita_12">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iashmita97&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iashmita97&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iashmita97&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iashmita97&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=iashmita97&theme=tokyonight&hide_border=true"/>
@@ -139,13 +136,13 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 [![Ashmita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97\&bg_color=0F172A\&color=38BDF8\&line=22D3EE\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/iashmita97/iashmita97/output/github-contribution-grid-snake.svg"/>
@@ -154,5 +151,6 @@
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,40:0284C7,70:06B6D4,100:22D3EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,40:0284C7,70:06B6D4,100:22D3EE"/>
 </p>
+
