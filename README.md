@@ -99,36 +99,16 @@
 </a>
 
 <a href="https://x.com/iashmita_12">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iashmita97&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iashmita97&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=iashmita97&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
-[![Ashmita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97\&bg_color=0F172A\&color=38BDF8\&line=22D3EE\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashmita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iashmita97&bg_color=0F172A&color=38BDF8&line=22D3EE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
