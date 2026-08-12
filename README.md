@@ -22,7 +22,7 @@
 
 <p align="center">
 
-🎓 <b>B.Tech Information Technology | 6th Semester</b>
+🎓 <b>B.Tech Information Technology | Final Year Student</b>
 
 <br>
 
